@@ -26,7 +26,7 @@ AWS (ML Specialty certified) · GCP
 Current Projects  
 [Impala.digital](https://impala.digital) data intelligence platform for the nonprofit sector   
 [Prometheus](https://prometheus.org.ua/) Ukraine's leading online learning platform   
-[ObriyX](https://obriy.x) AI solutions and engineering consultancy   
+[ObriyX](https://obriyx.com/) AI solutions and engineering consultancy   
 
 Contact  
 [LinkedIn](https://www.linkedin.com/in/gregory-koshelenko/)
